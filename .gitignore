@@ -1,0 +1,6 @@
+*.class
+*.path
+*.bkp
+*.temp
+/newfolder/*
+/testfolder/*
